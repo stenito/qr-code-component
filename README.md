@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/stenito/qr-code-component](https://github.com/stenito/qr-code-component)
-- Live Site URL: [https://frontendmentor.stenito.com/qr-code-component/](https://frontendmentor.stenito.com/qr-code-component/)
+- Live Site URL: [https://stenito-qr-code-component.netlify.app](https://stenito-qr-code-component.netlify.app)
 
 ## My process
 
@@ -44,14 +44,14 @@ Alternative versions
 Use `<img>` in HTML for the QR code instead of background in CSS.
 
 - Solution URL: [https://github.com/stenito/qr-code-component-v2](https://github.com/stenito/qr-code-component-v2)
-- Live Site URL: [https://frontendmentor.stenito.com/qr-code-component-v2/](https://frontendmentor.stenito.com/qr-code-component-v2/)
+- Live Site URL: [https://stenito-qr-code-component-v2.netlify.app/](https://stenito-qr-code-component-v2.netlify.app/)
 
 #### CSS background
 
 Create circles in QR code background with CSS instead of using an image.
 
 - Solution URL: [https://github.com/stenito/qr-code-component-v3](https://github.com/stenito/qr-code-component-v3)
-- Live Site URL: [https://frontendmentor.stenito.com/qr-code-component-v3/](https://frontendmentor.stenito.com/qr-code-component-v3/)
+- Live Site URL: [https://stenito-qr-code-component-v3.netlify.app/](https://stenito-qr-code-component-v3.netlify.app/)
 
 ## Author
 
