@@ -43,14 +43,14 @@ Alternative versions
 
 Use `<img>` in HTML for the QR code instead of background in CSS.
 
-- Solution URL: [https://github.com/stenito/qr-code-component](https://github.com/stenito/qr-code-component)
+- Solution URL: [https://github.com/stenito/qr-code-component-v2](https://github.com/stenito/qr-code-component-v2)
 - Live Site URL: [https://frontendmentor.stenito.com/qr-code-component-v2/](https://frontendmentor.stenito.com/qr-code-component-v2/)
 
 #### CSS background
 
 Create circles in QR code background with CSS instead of using an image.
 
-- Solution URL: [https://github.com/stenito/qr-code-component](https://github.com/stenito/qr-code-component)
+- Solution URL: [https://github.com/stenito/qr-code-component-v3](https://github.com/stenito/qr-code-component-v3)
 - Live Site URL: [https://frontendmentor.stenito.com/qr-code-component-v3/](https://frontendmentor.stenito.com/qr-code-component-v3/)
 
 ## Author
