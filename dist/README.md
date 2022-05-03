@@ -58,4 +58,3 @@ Create circles in QR code background with CSS instead of using an image.
 - Frontend Mentor - [@stenito](https://www.frontendmentor.io/profile/stenito)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
